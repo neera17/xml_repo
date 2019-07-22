@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (code,title,year-of-release?,theater-name+,city*)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT year-of-release (#PCDATA)>
+<!ELEMENT theater-name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
