@@ -9,7 +9,7 @@ public class MovieXmlHandler extends DefaultHandler {
 	@Override
 	public void startDocument() throws SAXException {
 		// TODO Auto-generated method stub
-		System.out.println("Stsrt of Xml Document");
+		System.out.println("Start of Xml Document");
 	}
 
 	@Override
