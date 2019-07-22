@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zen:movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zen="http://www.zensar.com/movies" xsi:schemaLocation="http://www.zensar.com/movies movies.xsd ">
+  <zen:movie>
+    <zen:Code>5001</zen:Code>
+    <zen:Title>ZNMD</zen:Title>
+    <zen:release-date>2011-07-15</zen:release-date>
+    <zen:theater-name>PVR Cinemas</zen:theater-name>
+  </zen:movie>
+  <zen:movie>
+    <zen:Code>5003</zen:Code>
+    <zen:Title>YJDH</zen:Title>
+    <zen:release-date>2013-05-31</zen:release-date>
+    <zen:theater-name>INOX Leisures</zen:theater-name>
+  </zen:movie>
+  <zen:movie>
+    <zen:Code>5999</zen:Code>
+    <zen:Title>MP3</zen:Title>
+    <zen:theater-name>Velocity Multiplex</zen:theater-name>
+  </zen:movie>
+</zen:movies>
